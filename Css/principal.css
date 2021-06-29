@@ -41,7 +41,7 @@ header nav a:hover{
 .filme-principal{
     font-size: 16px;
     background: linear-gradient(rgba(0, 0, 0, 0.445),rgba(0, 0, 0, 0.445)), url('../Img/CapaRM.jpg') no-repeat center center;
-    height: 500px;
+    height: 450px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -83,4 +83,9 @@ header nav a:hover{
 }
 .filme-principal .container{
     width: 60%;
+}
+.box-filmes{
+   height: 100%; 
+   width: 100%;
+   display: block;
 }
