@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=STIX+Two+Text&display=swap');
 :root{
     --vermelho: #ca1019;
     --preta:#141414;
@@ -58,7 +59,7 @@ header nav a:hover{
 .filme-principal  .titulo{
     margin-top: 15%;
     font-size: 40px;
-    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-family: 'Anton', sans-serif;
 }
 .botao{
     margin-top: 70px;
@@ -82,10 +83,17 @@ header nav a:hover{
     margin-left: 20px;
 }
 .filme-principal .container{
-    width: 42%;
+    width: 37%;
 }
 .box-filmes{
    height: 100%; 
    width: 100%;
    display: block;
+}
+.afastar{
+    margin-top: 1%;
+}
+.subtitulo{
+    font-size: 20px;
+    font-family: 'STIX Two Text', serif;
 }
