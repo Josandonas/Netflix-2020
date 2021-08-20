@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=STIX+Two+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@300&display=swap');
 :root{
     --vermelho: #ca1019;
     --preta:#141414;
@@ -15,54 +17,39 @@ body{
     font-family: 'Times New Roman', Times, serif;
     color: white;
 }
-
-header .container{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-}
-header .logo{
-    margin-left: 5px;
-    color: var(--vermelho);
-    font-family: 'Arial Black', Times;
-    font-size: 40px;
-}
-header nav a{
-    text-decoration: none;
-    color: #AAA;
-    margin-right: 10px;
-}
-header nav a:hover{
-    color: #fff;
-    
-}
 /* Serie Principal */
 
 .filme-principal{
     font-size: 16px;
     background: linear-gradient(rgba(0, 0, 0, 0.445),rgba(0, 0, 0, 0.445)), url('../Img/CapaRM.jpg') no-repeat center center;
-    height: 450px;
+    max-height: 100%;
+    max-width: 100%;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+}
+.filme-principal .logo{
+    font-size: 35px;
+    font-family: 'Bebas Neue', cursive;
+}
+.filme-principal .logo-2{
+    font-family: 'M PLUS 1p', sans-serif;
+    font-size: 35px;
 }
 .filme-principal .descricao{
     margin-top: 4px;
     text-align: justify;
 }
 .filme-principal  .titulo{
-    margin-top: 15%;
     font-size: 40px;
     font-family: 'Anton', sans-serif;
 }
-.botao{
-    margin-top: 70px;
+.botoes .botao{
+    margin-top: 7%;
     background-color: rgba(0,0,0,.50);
     border:none;
     color: white;
@@ -82,7 +69,8 @@ header nav a:hover{
 .container{
     margin-left: 20px;
 }
-.filme-principal .container{
+.container-texto{
+    margin-left: 20px;
     width: 37%;
 }
 .box-filmes{
