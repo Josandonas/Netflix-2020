@@ -146,7 +146,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
 
 .filme-principal{
     font-size: 20px;
-    background: linear-gradient(rgba(0, 0, 0, 0.445),rgba(0, 0, 0, 0.445)), url('../Img/1CapaRM.jpg') no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.445),rgba(0, 0, 0, 0.445)), url('../Img/Principal.jpg') no-repeat center center;
     max-height: 100%;
     max-width: 100%;
     -webkit-background-size: cover;
