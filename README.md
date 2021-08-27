@@ -10,5 +10,5 @@ Usou-se:
 
 ## Exemplo
 
-![alt text](https://github.com/Josandonas/Netflix_version_1/master/exemploNetflix.png?raw=true)
+![alt text](https://github.com/Josandonas/Netflix_version_1/blob/master/exemploNetflix.jpg?raw=true)
 
