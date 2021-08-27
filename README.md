@@ -8,7 +8,10 @@ Usou-se:
 * OWL
 * Jquery
 
-## Exemplo
+## Exemplo:
 
 ![alt text](https://github.com/Josandonas/Netflix_version_1/blob/master/exemploNetflix.jpg?raw=true)
 
+## O que foi feito:
+
+![alt text](https://github.com/Josandonas/Netflix_version_1/blob/master/demonstração.png?raw=true)
