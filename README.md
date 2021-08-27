@@ -15,3 +15,7 @@ Usou-se:
 ## O que foi feito:
 
 ![alt text](https://github.com/Josandonas/Netflix_version_1/blob/master/demonstração.png?raw=true)
+
+## Autor
+
+* **José Sandonas** - *Developer Full Stack* - [git Josandonas](https://github.com/Josandonas)
